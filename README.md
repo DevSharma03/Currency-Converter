@@ -17,7 +17,7 @@ A simple and efficient Currency Converter application that allows users to conve
 ## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, JavaScript  
-- **Styling:** CSS Modules / Styled Components  
+- **Styling:** CSS Modules / Styled Components
 
 ---
 
