@@ -4,7 +4,7 @@ A simple and efficient Currency Converter application that allows users to conve
 
 ---
 
-## 🚀 Features
+## 🚀 Features 
 
 ✅ **Real-time Currency Conversion** - Get the latest exchange rates instantly.  
 ✅ **User-Friendly UI** - A sleek and modern design with an intuitive interface.  
