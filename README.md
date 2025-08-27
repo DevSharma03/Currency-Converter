@@ -21,12 +21,6 @@ A simple and efficient Currency Converter application that allows users to conve
 
 ---
 
-## 📸 Screenshots
-
-> Add screenshots here (if available)
-
----
-
 ## 🎯 Getting Started
 
 ### 1️⃣ Clone the Repository  
